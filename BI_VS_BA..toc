@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introduci\IeC {\'o}n}{1}
+\contentsline {section}{\numberline {2}Business Intelligence}{2}
+\contentsline {section}{\numberline {3}Business Analytics}{3}
+\contentsline {section}{\numberline {4}Business Intelligence vs. Business Analytics: \IeC {\textquestiondown }Cu\IeC {\'a}l es la diferencia?}{4}
+\contentsline {section}{\numberline {5}Perspectivas de expertos}{6}
+\contentsline {section}{\numberline {6}Conclusiones}{7}
